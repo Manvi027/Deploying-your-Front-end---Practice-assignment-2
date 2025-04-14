@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    color: #ca2f2f;
+  }
+  
+  h1 {
+    color: #63c0e5;
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+  }
+  
